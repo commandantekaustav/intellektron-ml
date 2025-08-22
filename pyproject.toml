@@ -23,3 +23,4 @@ classifiers = [
 [project.urls]
 Homepage = "https://github.com/commandantekaustav/intellektron-ml"
 "Bug Tracker" = "https://github.com/commandantekaustav/intellektron-ml/issues"
+"Source Code" = "https://github.com/commandantekaustav/intellektron-ml"
