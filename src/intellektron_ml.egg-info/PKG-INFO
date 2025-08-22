@@ -47,10 +47,9 @@ This package is in the early stages of development. The goal is to provide clear
 
 ## Installation
 
-'''bash
+```
 pip install intellektron-ml
-'''
-
+```
 ## Development
 
 This project is developed by Kaustav as part of the Intellektron educational initiative.

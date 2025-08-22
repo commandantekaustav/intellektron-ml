@@ -8,9 +8,9 @@ This package is in the early stages of development. The goal is to provide clear
 
 ## Installation
 
-'''bash
+```bash
 pip install intellektron-ml
-'''
+```
 
 ## Development
 
